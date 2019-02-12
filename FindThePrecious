@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <meta charset="utf-8" />
+    <title>FindThePrecious.com</title>
+  </head>
+<body>
+  <header>
+    <h1>FindThePrecious.com</h1>
+    <nav>
+      <ul>
+        <li><a href="#fellows">Fellows</a></li>
+        <li><a href="#the_ring">The Ring</a></li>
+        <li><a href="#get_my_reward">Get My Reward</a></li>
+        <li><a href="#best_hunters">Best Hunters</a></li>
+        <li><a href="#join_the_army">Join The Army</a></li>
+        <li><a href="#contact_us">Contact Us</a></li>
+      </ul>
+    </nav>
+    <figure>
+      <a href="https://placehotlder.com"><img src="https://via.placeholder.com/140" alt="image"></a>
+    </figure>
+  </header>
+  
+  <section>
+    <h2 id="fellows">Fellows wanted dead</h2><h3>or alive if you want to eat them later</h3>
+    <ul>
+      <li><a href="#most_wanted">Most wanted</a></li>
+      <li><a href="#most_dangerous">Most Dangerous</a></li>
+      <li><a href="#already_captured">Already Captured</a></li>
+     </ul>
+     <div id="conteneur">
+        <div id="imageWizzard">
+          <figure> 
+            <a href="https://placehotlder.com"><img src="https://via.placeholder.com/125x125" alt="The Wizard"></a>
+          </figure>
+        </div>
+        <div id="imageHobbit">
+          <figure> 
+            <a href="https://placehotlder.com"><img src="https://via.placeholder.com/125x125" alt="Hobbit#3"></a>
+          </figure>
+        </div>
+        <div id="imageDwarf">
+          <figure> 
+            <a href="https://placehotlder.com"><img src="https://via.placeholder.com/125x125" alt="Yummy Dwarf"></a>
+          </figure>
+        </div>
+      </div>
+   </section>
+   <section>
+    <h2 id="get_my_reward">I have captured one of them, how to get my reward?</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus... </p>
+      <figure>
+        <a href="https://placehotlder.com"><img src="https://via.placeholder.com/140x140" alt="image1"></a>
+      </figure>
+   </section>
+
+   <section>
+     <h2 id="best_hunters"> Best hunters </h2>
+       <div id="Elves_Killer">
+         <figure>
+           <a href="https://placehotlder.com"><img src="https://via.placeholder.com/70x70" alt="elves_killer"></a>
+         </figure>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus... </p>
+         <a href="#profile"> Profile </a>
+       </div>
+       <div id="Goblin_45">
+         <figure>
+           <a href="https://placehotlder.com"><img src="https://via.placeholder.com/70x70" alt="Goblin_45"></a>
+         </figure>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus... </p>
+         <a href="#profile"> Profile </a>
+       </div>
+   </section>
+     
+   <section>
+    <h2 id="the_ring"> About the Ring</h2>
+      <article>
+        <h3> Ring capabilities </h3>
+          <table>
+            <thead>
+              <tr>
+                <th> Features</th>
+                <th> Description </th>
+              </tr>
+            </thead>
+              <tr>
+                <td> Main </td>
+                <td> One ring to rule them all </td>
+              </tr>
+              <tr>
+                <td> Invisibility </td>
+                <td> You can't see me </td>
+              </tr>
+              <tr>
+                <td> Power </td>
+                <td>Destroy the world </td>
+              </tr> 
+          </table>
+        </article>
+        <article>
+          <h3> Why the ring is awesome </h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus... </p>
+              <figure>
+                <a href="https://placehotlder.com"><img src="https://via.placeholder.com/110x110" alt="Gollum"></a>
+              </figure>
+         </article> 
+   </section>
+   <section>
+    <h2 id="join_the_army">Join the Mordor Army, we need you !</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus... </p>
+      <figure>
+        <a href="https://placehotlder.com"><img src="https://via.placeholder.com/140x140" alt="image1"></a>
+      </figure>
+   </section>
+   <section>
+    <h2 id="contact_us"> Contact us </h2>
+      <p>
+        <form method="post" action="traitement.php">
+          <p> 
+            <label for="mail"> @ </label><input type="text" name="mail" id="mail" placeholder="Email" size="30"/>
+          </p>
+          <p>
+            <label for="tel"> Tel </label><input type="text" name="tel" id="tel" placeholder="Phone" size="30"/>
+          </p>
+          <p>
+            <select name="I have seen on of them" id="seen_one">
+            <option>Lorem ipsum ...</option>
+            <option>Lorem ispum ... </option>
+            <option>Lorem ipsum ...</option>
+            </select>
+          </p>
+          <p>
+           <label for="message"> Message </label><br>
+              <textarea name="message" id="message" placeholder="Your message" cols="33" rows="5"></textarea>
+         </p>
+       </form>
+    </section>
+   <footer>
+    <p><a href="about_us">About us </a></p>
+    <p><a href="fellows">Fellows </a></p>
+    <p><a href="joint_the_army">Join our army </a></p>
+    <p><a href="faq">FAQ </a></p>
+    <p><a href="reward_conditions">Reward condition </a></p>
+    <p><a href="legal_mention">Legal mentions </a></p>
+    <p><a href="sauron_4_ever">Sauron4ever.com </a></p>
+    <p><a href="twitter">Follow him also on twitter </a></p>
+  </footer>
+</body>           
+</html>
