@@ -1,0 +1,45 @@
+.body {
+    text-align : center;
+    
+}
+.container {
+  width : 100%; 
+  height : 100%; 
+  margin: 2rw;
+  padding: 2rw; 
+  position : relative;
+ 
+}
+.row {
+  display : flex;
+  justify-content : center; 
+  width : 100%; 
+  margin : 1vw; 
+
+}
+
+.badge-pill {
+  margin : 2vw; 
+}
+.card {
+  justify-content: space-around;
+  margin : auto; 
+}
+
+footer {
+  background-color : darkgrey; 
+  display: flex;
+  flex-wrap: wrap; 
+  text-align : space-around; 
+  width : 100%;
+}
+ 
+.img-fluid{
+  max-width : 100%; 
+  height: auto; 
+}
+.card-group :hover{
+  opacity : 0.8;
+  justify-content : center; 
+  margin : auto; 
+}
